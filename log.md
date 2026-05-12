@@ -23,3 +23,4 @@
 - Depositing tomorrow to continue Phase B
 - Polymarket streak: maintained
 - Commits today: active
+- Base onchain score 41
