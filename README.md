@@ -9,3 +9,4 @@ new gm site found surflayer
  GitHub commits: 35
  Polymarket streak day: 55
  Rabby TGE: watching
+  Arc mainnet: waiting
