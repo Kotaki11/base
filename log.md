@@ -28,4 +28,5 @@
 -  Rabby tge pending
 -   ## May 13, 2026
 -   Transactions today: targeting 40
+-   Balance: $6 working capital
 
