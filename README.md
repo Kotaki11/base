@@ -5,3 +5,4 @@ New platform i interacted with- surflayer
 wallet balance $7.42
 may 12
 new gm site found surflayer
+ Base txs running total: ~380
