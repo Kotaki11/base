@@ -39,4 +39,5 @@
 -    Aerodrome + BaseSwap swaps done
 -   Polymarket streak: maintained
 -   ## May 15, 2026
+-   Transactions: 430 running total
 
