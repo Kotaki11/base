@@ -42,4 +42,5 @@
 -   Transactions: 430 running total
 -   No electricity today — mobile farming
 -   Stakeland assets removed for tx activity
+-    Balance: $5.73 ETH + $1 USDC
 
