@@ -48,4 +48,5 @@
 - Transactions: 457 running total
 - Balance: $4 ETH + $1 USDC
 -  Target today: 494 txs
+-  Working capital: $3 after reserve
 
