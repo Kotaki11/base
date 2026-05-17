@@ -53,4 +53,5 @@
 -   ## May 18, 2026
 -   Bridged $18 from BNB to Base
 -   Transactions: 512, target 562 today
+-   Balance: $18.48 ETH
 
