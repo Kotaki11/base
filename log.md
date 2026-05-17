@@ -51,4 +51,5 @@
 -  Working capital: $3 after reserve
 -  Polymarket streak: maintained
 -   ## May 18, 2026
+-   Bridged $18 from BNB to Base
 
